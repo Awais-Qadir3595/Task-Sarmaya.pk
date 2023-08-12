@@ -1,0 +1,17 @@
+export {default as Bag} from './bag.svg';
+export {default as Save} from './save.svg';
+export {default as BookMark} from './bookMark.svg';
+export {default as Message} from './message.svg';
+export {default as UserIcon} from './userIcon.svg';
+export {default as Amazon} from './amazon.svg';
+export {default as NextIcon} from './nextIcon.svg';
+export {default as CoinBase} from './coinBase.svg';
+export {default as Uiux} from './uiux.svg';
+export {default as VrDesigner} from './vrDesigner.svg';
+export {default as Uiuxyellow} from './uiuxyellow.svg';
+export {default as LinkedIn} from './linkedIn.svg';
+export {default as Glassdoor} from './glassdoor.svg';
+export {default as Monstar} from './monstar.svg';
+export {default as BackImage} from './backImage.svg';
+export {default as BackArrow} from './backArrow.svg';
+export {default as Img1} from './img1.svg';
